@@ -19,6 +19,8 @@ h6 {
 
 p {
   margin: 0;
+  padding-left: 5em;
+  padding-right: 5em;
 }
 
 .spacer {
@@ -82,15 +84,23 @@ p {
   font-size: medium;
   color: #002933;
   font-style: italic;
+  text-align: center;
 }
 #about-me p {
   font-size: medium;
   border-radius: 25px;
   border: 2px solid aquamarine;
   padding: 20px;
-  width: 400px;
+  width: 500px;
   background-color: #002933;
   color: wheat;
+  text-align: center;
+  margin: auto;
+}
+app-skills {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", "Geneva", "Verdana", "sans-serif";
+  text-align: center;
 }
 
 .content {
