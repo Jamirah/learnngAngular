@@ -9,20 +9,20 @@ export class ContactsService {
     {
       firstName: 'Khalilah',
       lastName: 'Boyd',
-      phoneNumber: '(610)931-8519',
-      email: 'jmccloudrealty@gmail.com',
+      phoneNumber: '(000)000-0000',
+      email: 'j@gmail.com',
     },
     {
       firstName: 'DeRonnie',
       lastName: 'Ford',
-      phoneNumber: '(470)642-0750',
-      email: 'Deronnieford101@gmail.com',
+      phoneNumber: '(000)000-0000',
+      email: 'D@gmail.com',
     },
     {
       firstName: 'Jamialah',
       lastName: 'Carroll',
-      phoneNumber: '(215)688-6588',
-      email: 'jamialah@yahoo.com',
+      phoneNumber: '(000)000-0000',
+      email: 'j@yahoo.com',
     },
   ];
 
